@@ -7,8 +7,14 @@ img {
 h2 {
 
 	color: red;
+	text-align: center;
 }
 
+h1 {
+
+	
+	text-align: center;
+}
 p {
 
 	margin: 15px;
@@ -21,6 +27,7 @@ img.pequeno {
 
 }
 
-a {
-
+p.trabajo {
+	font-family: italic;
+	font-size: 30px;
 }
