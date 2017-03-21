@@ -1,0 +1,26 @@
+img {
+
+	height: 100px;
+    width: 100px;
+}
+
+h2 {
+
+	color: red;
+}
+
+p {
+
+	margin: 15px;
+}
+
+img.pequeno {
+	
+	height: 25px;
+    width: 25px;
+
+}
+
+a {
+
+}
